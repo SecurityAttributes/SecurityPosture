@@ -16,3 +16,10 @@ which are used to create this website.
 
 ## License
 See [License](./LICENSE).
+
+## Use Cases
+
+
+## Security Posture by Example
+It is sometimes easier for some people to understand concepts by using examples.
+See [By Example](./By_Example.md)
