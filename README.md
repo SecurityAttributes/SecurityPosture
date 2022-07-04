@@ -2,6 +2,13 @@
 
 An [organization](./GLOSSARY.md#Organization)
 
+## Security Posture by Example
+It is sometimes easier for some people to understand concepts
+by using examples.
+See [By Example](./By_Example.md)
+
+## Use Cases
+
 ## Glossary
 See [Glossary](./GLOSSARY.md) for definitions
 used in the context of this website
@@ -16,10 +23,3 @@ which are used to create this website.
 
 ## License
 See [License](./LICENSE).
-
-## Use Cases
-
-
-## Security Posture by Example
-It is sometimes easier for some people to understand concepts by using examples.
-See [By Example](./By_Example.md)

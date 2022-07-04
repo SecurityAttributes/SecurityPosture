@@ -1,15 +1,22 @@
 # Security Posture by Example
 
-Amalgamated Example is a large corporate conglomerate
+It is sometimes easier for some people to understand concepts
+by using examples.
+
+Amalgamated Example Company is a large corporate conglomerate
 with many business units in many industries.
 
-The organization has a system of systems
+The organization has a
+[system of systems](./GLOSSARY.md#system_of_systems)
 containing many devices, both virtual and physical.
 The organization has many security policies,
 a subset of which will be used in this example.
 One corporate security policy is that the organization participates
 in the appropriate ISAC/ISAO's, both
-sharing and receiving threat information using STIX over TAXII.
+sharing and receiving threat information using
+[STIX](./GLOSSARY.md#stix)
+over
+[TAXII](./GLOSSARY.md#taxii).
 The organization received a STIX object from the ISAC/ISAO
 containing the Indicators of Compromise (IOCs)
 for a particular campaign by a particular threat actor.
@@ -75,22 +82,31 @@ Posture attributes in this example include:
 The examples below will illustrate a sample of security posture attributes and their use in context.
 
 ## Scenario 1 - need better title
-One of the corporate subsidiaries is a large
-Healthcare Delivery Organization (HDO).
-This organization maintains situational awareness status
-in one of 4 states:
+In this example, Amalgamated Example Company
+has a very complex security posture based on
+many factors across many internal organization,
+located in many places.
+But for the purpose of an executive dashboard,
+the security posture is bucketed into one of four states:
 - Business As Usual
 - Heightened Threat
 - Active Attack, no known material consequences foreseen
 - Active Attack with material consequences
+
 This "situational awareness status" is one measure of the
 organization's security posture, and is itself a posture attribute
 used in the playbooks.
+
+One of the corporate subsidiaries is a large
+Healthcare Delivery Organization (HDO).
 
 In Scenario 1, the status was "Business As Usual"
 when the STIX object was received from the HS-ISAC.
 The first step in the CACAO playbook was a decision
 based on the situational awareness status.
+They CACAO playbook will be oversimplified in these
+scenarios but more complete CACAO use cases may be found
+at {add reference link to particular CACAO use case}.
 See {add reference link to particular PACE retrieval use case}
 for how this status was retrieved from the organization's
 PACE system.
