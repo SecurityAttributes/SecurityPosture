@@ -29,20 +29,23 @@ ie a 'connected' device.
 
 ## Evaluation
 
+## Kestrel
+
 ## National Vulnerability Database
 https://nvd.nist.gov/
 
 ## NVD
-Acronym for National Vulnerability Database
+Acronym for
+[National Vulnerability Database](./GLOSSARY.md#national_vulnerability_database)
 
 ## OASIS
 OASIS is a standards development organization
 developing
-[PACE](),
-[CACAO](),
-[OpenC2](),
-[STIX](),
-[TAXII](),
+[PACE](./GLOSSARY.md#pace),
+[CACAO](./GLOSSARY.md#cacao),
+[OpenC2](./GLOSSARY.md#openc2),
+[STIX](./GLOSSARY.md#stix),
+[TAXII](./GLOSSARY.md#taxii),
 and many other relevant standards.
 
 ## OpenC2
@@ -76,7 +79,7 @@ Assessing posture  generally consists of understanding, for a given
 [device](./GLOSSARY.md#device)
 (or [system](./GLOSSARY.md#system), or
 [system of systems](./GLOSSARY.md#system_of_systems))
-the relevant 
+the relevant
 [attributes ](./GLOSSARY.md#attribute) of that device.
 
 ## Posture Attribute

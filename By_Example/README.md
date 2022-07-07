@@ -2,6 +2,8 @@
 
 It is sometimes easier for some people to understand concepts
 by using examples.
+The intent is to show realistic scenarios of how posture attributes
+can be used as part of the business processes.
 
 Amalgamated Example Company is a large corporate conglomerate
 with many business units in many industries.
