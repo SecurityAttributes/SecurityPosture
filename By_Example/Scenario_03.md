@@ -22,7 +22,14 @@ The CSAF/VEX for this device contains:
 The HDO security policy is to trust this particular vendor when
 they say that although the component is used, the vulnerable code
 has been removed.
-So the HDO determines this is not a threat
-the next step in the CACAO playbook
-and the playboook changes the corporate situational status back to
+Note the posture attributes in this scenario include:
+- the existence of the VEX,
+- the VEX status,
+- the VEX status justification,
+- the vendor trust rating (ie to believe their status justification)
+
+In this scenario,
+the HDO determines this CVE is not a threat to the organization,
+and the next step in the CACAO playbook
+changes the corporate situational status back to
 "Business as usual".

@@ -71,6 +71,7 @@ for each device the CACAO playbook will:
 
 The examples below will illustrate a sample of
 security posture attributes and their use in context.
+They make the most sense when read in order.
 
 ## Scenario 1 - Overall Posture on the Corporate Dashboard
 See [Scenario 1](./Scenario_01.md)
@@ -80,3 +81,48 @@ See [Scenario 2](./Scenario_02.md)
 
 ## Scenario 3 - Different Back to Business as Usual
 See [Scenario 3](./Scenario_03.md)
+
+## Scenario 4 - Heightened Threat, Automated Patch
+See [Scenario 4](./Scenario_04.md)
+
+## Scenario 5 - Heightened Threat, Increased Monitoring
+See [Scenario 5](./Scenario_05.md)
+
+## Scenario 6 - Heightened Threat, Start Threat Hunting
+See [Scenario 6](./Scenario_06.md)
+
+## Scenario 7 - Active Attack, no known material consequences foreseen
+See [Scenario 7](./Scenario_07.md)
+
+## Scenario 8 - Active Attack with material consequences
+See [Scenario 8](./Scenario_08.md)
+
+## Scenario 9 - Software Development - reduce unplanned work
+See [Scenario 9](./Scenario_09.md)
+
+## Scenario 10 - Software Development - architecture
+See [Scenario 10](./Scenario_10.md)
+
+## Scenario 11 - Software Development - license
+See [Scenario 11](./Scenario_11.md)
+
+## Scenario 12 - Software Development - Demming
+See [Scenario 12](./Scenario_12.md)
+
+## Scenario 13 - Software Development - predictive
+See [Scenario 13](./Scenario_13.md)
+
+## Scenario 14 - Build systems
+See [Scenario 14](./Scenario_14.md)
+
+## Scenario 15 - Software provenance and pedigree
+See [Scenario 15](./Scenario_15.md)
+
+## Scenario 16 - Software provenance and pedigree
+See [Scenario 16](./Scenario_16.md)
+
+## Scenario 17 - Vendor trust
+See [Scenario 17](./Scenario_17.md)
+
+## Scenario 18 - M&A
+See [Scenario 18](./Scenario_18.md)

@@ -14,5 +14,5 @@ Posture attributes in this example include:
 - Vendor trust
 - Software provenance and pedigree
 - device criticality to the organization
-
+- Software provenance and pedigree
 ---
