@@ -1,7 +1,5 @@
 # Security Posture
 
-An [organization](./GLOSSARY.md#Organization)
-
 The english definition of posture is
 "state or condition at a given time
 with respect to a capability in particular circumstances".
@@ -18,6 +16,8 @@ the relevant
 ## Security Posture by Example
 It is sometimes easier for some people to understand concepts
 by using examples.
+The intent is to show realistic scenarios of how posture attributes
+can be used as part of the business processes.
 See [By Example](./By_Example/README.md).
 
 ## Use Cases
