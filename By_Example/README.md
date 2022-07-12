@@ -128,3 +128,6 @@ See [Scenario 17](./Scenario_17.md)
 
 ## Scenario 18 - M&A
 See [Scenario 18](./Scenario_18.md)
+
+## Scenario 19 - Known Unknowns
+See [Scenario 19](./Scenario_19.md)
