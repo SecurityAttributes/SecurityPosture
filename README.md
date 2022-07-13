@@ -30,7 +30,8 @@ See [Glossary](./GLOSSARY.md) for definitions
 used in the context of this website
 
 ## Contributing
-See [Contributing](./CONTRIBUTING.md).
+See [Contributing](./CONTRIBUTING.md), including
+[Code of Conduct](./CODE_OF_CONDUCT.md)
 
 See the
 [Original Readme](./Orig_README.md)
