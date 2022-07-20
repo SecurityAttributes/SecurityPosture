@@ -2,8 +2,9 @@
 
 ## Scenario 5 - Heightened Threat, Increased Monitoring
 This scenario is similar to Scenario 3 except the CSAF/VEX comes back
-with status = NOT_AFFECTED and status justification =
-vulnerable_code_cannot_be_controlled_by_adversary.
+with
+- status = NOT_AFFECTED
+- status justification = vulnerable_code_cannot_be_controlled_by_adversary.
 
 Although the HMO does trust that the vendor
 used the correct status justification,

@@ -4,7 +4,8 @@
 
 One of the corporate subsidiaries of Amalgamated Example Company
 is a medical device manufacturer (MDM).
-This MDM also received the STIX information from the HS-ISAC.
+This MDM also received the STIX information from the HS-ISAC
+as in earlier examples.
 In this scenario,
 the MDM has a complete and accurate inventory of
 its devices and complete SBOMs for all those devices

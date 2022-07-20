@@ -9,7 +9,7 @@ Amalgamated Example Company is a large corporate conglomerate
 with many business units in many industries.
 
 The organization has a
-[system of systems](./GLOSSARY.md#system_of_systems)
+[system of systems](../GLOSSARY.md#system_of_systems)
 containing many devices, both virtual and physical.
 The organization has many security policies,
 a subset of which will be used in these examples.
@@ -28,7 +28,7 @@ CVEs of the vulnerabilities being exploited.
 
 Reception of this STIX object
 kicked off a
-[CACAO](./GLOSSARY.md#CACAO)
+[CACAO](../GLOSSARY.md#CACAO)
 playbook
 to evaluate the risk to the organization of this particular threat.
 From a parochial security posture viewpoint,
@@ -49,8 +49,8 @@ and the security policy on patching known vulnerabilities
 allows varying time periods to patch
 depending on the perceived risk of the vulnerability,
 calculated using
-[risk quantification](./GLOSSARY.md#Risk_Quantification and
-[value stream mapping](./GLOSSARY.md#Value_Stream_Mapping.
+[risk quantification](../GLOSSARY.md#Risk_Quantification) and
+[value stream mapping](../GLOSSARY.md#Value_Stream_Mapping).
 The security policy also allows for exceptions
 to this policy if the appropriate level of management
 authorizes the exception based on business needs.
