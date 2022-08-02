@@ -117,7 +117,7 @@ See [Scenario 13](./Scenario_13.md)
 ## Scenario 14 - Build systems
 See [Scenario 14](./Scenario_14.md)
 
-## Scenario 15 - Software provenance and pedigree
+## Scenario 15 - Software Signatures
 See [Scenario 15](./Scenario_15.md)
 
 ## Scenario 16 - Software provenance and pedigree
@@ -126,8 +126,11 @@ See [Scenario 16](./Scenario_16.md)
 ## Scenario 17 - Vendor trust
 See [Scenario 17](./Scenario_17.md)
 
-## Scenario 18 - M&A
+## Scenario 18 - Mergers and Acquisitions - Sunny Day
 See [Scenario 18](./Scenario_18.md)
 
-## Scenario 19 - Known Unknowns
+## Scenario 19 - Mergers and Acquisitions - Rainy Day
 See [Scenario 19](./Scenario_19.md)
+
+## Scenario 20 - Known Unknowns
+See [Scenario 20](./Scenario_20.md)
