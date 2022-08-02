@@ -43,8 +43,7 @@ is not yet known if this threat will affect Level 1/2 devices.
 
 A CACAO playbook is kicked off to evaluate which, if any,
 devices have the vulnerable component.
-A PACE evaluation query is launched
-{put in link to detailed use case for this}
+A [PACE evaluation query](../Use_Cases/OpenC2/Oc2PaceScenario02.md) is launched
 asking what SBOMs in the PACE system contain the vulnerable component.
 The response is the null set.
 An asset management query is launched to confirm there are no
