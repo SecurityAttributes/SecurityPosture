@@ -16,7 +16,7 @@ This "situational awareness status" is one measure of the
 organization's security posture, and is itself a posture attribute
 used in the playbooks.
 
-One of the corporate subsidiaries is a large
+One of the corporate subsidiaries (HDO.Amalgamated.Example.com) is a large
 Healthcare Delivery Organization (HDO).
 
 In Scenario 1, the status was "Business As Usual"
@@ -25,14 +25,14 @@ The first step in the CACAO playbook was a decision
 based on the situational awareness status.
 They CACAO playbook will be oversimplified in these
 scenarios but more complete CACAO use cases may be found
-at {add reference link to particular CACAO use case}.
-See {add reference link to particular PACE retrieval use case}
+[here](../Use_Cases/CACAO/CacaoPaceScenario01.md).
+See
+[here](../Use_Cases/OpenC2/Oc2PaceScenario01.md)
 for how this attribute was retrieved from the organization's
-PACE system.
+PACE system using OpenC2 commands.
 
 Based on the organization's security policies and the
 source/rating/content of the STIX object,
 the playbook went down the path to change the status
 from "Business As Usual" to "Heightened Threat"
 until more is known on the risk of this threat.
-(details immaterial to this explanation s),

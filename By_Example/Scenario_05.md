@@ -15,9 +15,9 @@ potentially vulnerable component.
 Here is the policy as implemented in CACAO
 ![policy](./IIID01.png).
 See
-{add link to actual CACAO playbook in use case section}
+[here](../Use_Cases/CACAO/CacaoPaceScenario05.md)
 for the actual CACAO playbook.
 See
-{add link to actual PACE usecases in use case section}.
-See
-{add link to actual OpenC2 usecases in use case section}.
+[here](../Use_Cases/OpenC2/Oc2PaceScenario05.md)
+for interfacing with the
+PACE system using OpenC2 commands.
