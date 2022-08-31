@@ -3,7 +3,8 @@
 ## Scenario 9 - Software Development - reduce unplanned work
 
 One of the corporate subsidiaries of Amalgamated Example Company
-is a manufacturer of control systems for electric utilities.
+is a manufacturer of control systems for electric utilities
+NoShock.Amalgamated.Example.com.
 A major marketing advantage for this unit comes from it's
 proprietary optimization software present in the product.
 

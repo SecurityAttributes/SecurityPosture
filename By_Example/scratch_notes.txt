@@ -1,0 +1,62 @@
+## Scenario 1 - Overall Posture on the Corporate Dashboard
+  Amalgamated Example Company
+  HDO.Amalgamated
+
+## Scenario 2 - Back to Business as Usual
+  HDO.Amalgamated
+
+## Scenario 3 - Different Back to Business as Usual
+  HDO.Amalgamated
+
+## Scenario 4 - Heightened Threat, Automated Patch
+  HDO.Amalgamated
+
+## Scenario 5 - Heightened Threat, Increased Monitoring
+  HDO.Amalgamated
+
+## Scenario 6 - Heightened Threat, Start Threat Hunting
+  HDO.Amalgamated
+
+## Scenario 7 - Active Attack, no known material consequences foreseen
+  SitTight.Amalgamated
+
+## Scenario 8 - Active Attack with material consequences
+  MDM.Amalgamated
+
+## Scenario 9 - Software Development - reduce unplanned work
+  NoShock.Amalgamated
+
+## Scenario 10 - Software Development - architecture
+  NoShock.Amalgamated
+
+## Scenario 11 - Software Development - license
+  NoShock.Amalgamated
+
+## Scenario 12 - Software Development - Demming
+  EntertainMod.Amalgamated
+
+## Scenario 13 - Software Development - predictive
+  not done
+
+## Scenario 14 - Build systems
+  Security.Amalgamated
+
+## Scenario 15 - Software Signatures
+  Capital.Amalgamated
+
+## Scenario 16 - Software provenance and pedigree
+  Imaging.Amalgamated
+
+## Scenario 17 - Vendor trust
+  not done yet
+
+## Scenario 18 - Mergers and Acquisitions - Sunny Day
+   Virtual_Sports.Amalgamated
+   Augmented_Reality_Sporting
+
+## Scenario 19 - Mergers and Acquisitions - Rainy Day
+  Virtual_Sports.Amalgamated
+  Beat the Spread
+
+## Scenario 20 - Known Unknowns
+  HDO.Amalgamated

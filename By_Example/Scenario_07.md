@@ -3,7 +3,9 @@
 ## Scenario 7 - Active Attack, no known material consequences foreseen
 
 One of the corporate subsidiaries of Amalgamated Example Company
-is a manufacturer of seat belt webbing for the automotive industry.
+is a manufacturer of seat belt webbing
+for the automotive industry,
+SitTight.Amalgamated.Example.com.
 The Auto-ISAC delivered STIX objects
 very similar to those in previous examples.
 In this scenario,

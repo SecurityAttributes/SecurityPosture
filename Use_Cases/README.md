@@ -40,7 +40,7 @@ Kestrel and SBOM were not used in that particular scenario
 but their use cases will show up in other scenarios.
 
 - [CACAO](./CACAO)
-- [PACE]](./PACE)
+- [PACE](./PACE)
 - [OpenC2](./OpenC2)
 - [Kestrel](./Kestrel)
 - [SBOM](./SBOM)
