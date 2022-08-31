@@ -2,11 +2,13 @@
 
 ## Scenario 20 - Heightened Threat, Known Unknowns
 
-This scenario is for the HDO in Scenario 2
+This scenario is for the HDO in
+[Scenario 2](./Scenario_02.md)
 but is different because in this case
 there is a CSAF/VEX for that CVE
 for at last one vendor.
-The statusis AFFECTED and there are known exploits in the wild.
+The status is AFFECTED
+and there are known exploits in the wild.
 The HDO can patch the known vendor product but
 unfortunately the HDO does not have complete SBOMs
 for many other products from other vendors.

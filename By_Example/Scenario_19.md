@@ -1,6 +1,6 @@
 # Security Posture by Example
 
-## Scenario 18 - Mergers and Acquisitions Rainy Day
+## Scenario 19 - Mergers and Acquisitions Rainy Day
 
 Due to the huge success in the
 [previous scenario](./Scenario_18.md),
@@ -50,4 +50,4 @@ Beat the Spread's
 unpatched vulnerabilities;
 and shortly thereafter declares bankruptcy.
 Many of their customers move to Amalgamated resulting in even larger
-profits and bonuses. 
+profits and bonuses.

@@ -39,8 +39,8 @@ shows those interaction from the PACE system's viewpoint.
 Kestrel and SBOM were not used in that particular scenario
 but their use cases will show up in other scenarios.
 
-- [[CACAO]](./CACAO)
-- [[PACE]](./PACE)
-- [[OpenC2]](./OpenC2)
-- [[Kestrel]](./Kestrel)
-- [[SBOM]](./SBOM)
+- [CACAO](./CACAO)
+- [PACE]](./PACE)
+- [OpenC2](./OpenC2)
+- [Kestrel](./Kestrel)
+- [SBOM](./SBOM)
