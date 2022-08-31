@@ -10,7 +10,9 @@ In this scenario,
 the MDM has a complete and accurate inventory of
 its devices and complete SBOMs for all those devices
 stored in their PACE system.
-Similar to scenario 6, a device was found with a vulnerable component.
+Similar to
+[[scenario 6]](../Scenario_06.md), 
+a device was found with a vulnerable component.
 In this case it was older model infusion pump that is used in many
 hospitals world wide.
 In most cases, the pump is connected to the hospitals' private networks,
