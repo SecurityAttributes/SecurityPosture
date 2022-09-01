@@ -10,10 +10,10 @@ illustrating.
 In other words, the use cases are a view from a specific
 standard's viewpoint, are more atomic, and have more detail.
 
-To illustrate, in the
+To illustrate, the
 [Scenario_01](../By_Example/Scenario_01.md)
-scenario,
-it is about the overall posture on the corporate dashboard.
+scenario
+is about the overall posture on the corporate dashboard.
 The scenario is triggered by receiving
 a STIX object from
 the HS-ISAC which triggers an CACAO playbook
