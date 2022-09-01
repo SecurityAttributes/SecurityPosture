@@ -39,6 +39,7 @@ shows those interaction from the PACE system's viewpoint.
 Kestrel and SBOM were not used in that particular scenario
 but their use cases will show up in other scenarios.
 
+See the following sections for the detailed use cases:
 - [CACAO](./CACAO)
 - [PACE](./PACE)
 - [OpenC2](./OpenC2)
