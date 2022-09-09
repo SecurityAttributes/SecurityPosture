@@ -134,3 +134,9 @@ See [Scenario 19](./Scenario_19.md)
 
 ## Scenario 20 - Known Unknowns
 See [Scenario 20](./Scenario_20.md)
+
+## Scenario 21 - Ransomware
+See [Scenario 21](./Scenario_21.md)
+
+## Scenario 22 - Attack on Crypto Exchange 
+See [Scenario 22](./Scenario_22.md)
