@@ -3,7 +3,7 @@
 ## Scenario 10 - Software Development - architecture
 
 An unexpected benefit
-(albeit it should not have been unexpected as it occurs in most cases)
+(although it should not have been unexpected as it occurs in most cases)
 of [the previous example](./Scenario_09.md)
 occurred due to discovered duplications in architecture of many products.
 Simple PACE queries allowed the software developers to find
