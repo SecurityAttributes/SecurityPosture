@@ -3,9 +3,9 @@
 ## Scenario 1 - Overall Posture on the Corporate Dashboard
 In this example, Amalgamated Example Company
 has a very complex security posture based on
-many factors across many internal organization,
+many factors across many internal organizations
 located in many places.
-But for the purpose of an executive dashboard,
+For the purpose of an executive dashboard,
 the security posture is bucketed into one of four states:
 - Business As Usual
 - Heightened Threat
