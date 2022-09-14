@@ -2,8 +2,7 @@
 
 ## Scenario 11 - Software Development - license
 
-Another unexpected benefit
-(albeit it also should not have been unexpected)
+Another windfall
 of [scenario 9](./Scenario_09.md)
 was better understanding of supplier licensing,
 particularly open source.
