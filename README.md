@@ -1,11 +1,12 @@
 # Security Posture
 
-The english definition of posture is
-"state or condition at a given time
-with respect to a capability in particular circumstances".
-Posture as used on this website is either the security posture
-or the safety posture - i.e.
-the classic definition but with respect to either security or safety.
+Posture - noun - state or condition at a given time
+with respect to a capability in particular circumstances
+
+In the realm of Posture Attribute Collection and Evaluation,
+we deal in state or condition at a particular time as it pertains 
+to security or safety. 
+
 Assessing posture  generally consists of understanding, for a given
 [device](./GLOSSARY.md#device)
 (or [system](./GLOSSARY.md#system), or
@@ -13,15 +14,18 @@ Assessing posture  generally consists of understanding, for a given
 the relevant
 [attributes ](./GLOSSARY.md#attribute) of that device.
 
+Put simply, when it comes to security posture, we're very interested
+in knowing where and how we stand at all times.
+
 ## Security Posture by Example
-It is sometimes easier for some people to understand concepts
-by using examples.
-The intent is to show realistic scenarios of how posture attributes
-can be used as part of the business processes.
-See [By Example](./By_Example/README.md).
+Concepts are one thing, but understanding how they function in real life
+use cases is an essential component to their effectiveness.
+
+At [By Example](./By_Example/README.md), you'll find realistic scenarios 
+that demonstrate how posture attributes can be used as part of business processes.
 
 ## Use Cases
-The examples in the previous section provide a big picture view.
+Broad examples in the previous section provide a big picture view.
 Use cases are used to get into the details for very specific conditions.
 See [Use Cases](./Use_Cases/README.md).
 
