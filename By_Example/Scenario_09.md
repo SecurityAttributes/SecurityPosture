@@ -20,17 +20,17 @@ However, in recent years
 a large influx of ransomware and cyber attacks
 against their customers
 caused business unit to slip release dates
-and miss corporate financial targets
-due to unplanned, unscheduled work associated
-with fixing vulnerabilities in their products being exploited
-by hackers.
+and miss corporate financial targets. Hackers exploiting vulnerabilities 
+in the company's products became a huge source of unplanned and
+unscheduled work.
 
-This unit has not traditionally created SBOMs
+
+This unit had not traditionally created SBOMs
 as part of it's development process.
 Based on benchmarking with it's peers,
 quantitative risk analysis was performed and
 the unit decided to:
-- incorporate creating SBOMs into it's standard build process
+- incorporate creating SBOMs into its standard build process
 - implement a PACE system
 
 The PACE system allowed the development team
@@ -51,7 +51,7 @@ throughout many companies in many industries.
 Simple PACE queries (see usecases ?, ? ?)
 allowed the product teams to quickly determine the products
 that were and were not affected.
-For the unaffected products, which was the vast majority,
+For the unaffected products, which were the vast majority,
 VEXs were issued (created quickly using PACE, see use case ?).
 The development was able to quickly focus on the few affected products,
 and get patches out quickly.
