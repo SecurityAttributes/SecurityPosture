@@ -2,13 +2,13 @@
 
 ## Scenario 3 - Different Back to Business as Usual
 This scenario has mostly the same attributes as Scenario 2
-with the exception that the PACE SBOM evaluation query returned
-one SBOM which does contain one affected component.
+with the exception that this PACE SBOM evaluation query returns
+one SBOM, which does contain one affected component.
 
 An asset management query is launched to confirm there are no
 "known unknowns" (ie missing or incomplete SBOMs) in any level 1/2
 devices, and there are not.
-However there is one level 2 device that does contain an SBOM with
+However, there is one level 2 device that does contain an SBOM with
 the affected component.
 
 The playbook launches another PACE query about this SBOM to discover
