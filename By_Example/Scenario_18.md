@@ -5,7 +5,7 @@
 Amalgamated Virtual Sports is a subsidiary of the
 Amalgamated Example Company
 which produces and sells virtual reality games
-based on many professional sports programs.
+based on major professional sports.
 
 Amalgamated Virtual Sports has plans to acquire
 Augmented Reality Sporting, a start-up selling augmented reality
@@ -25,7 +25,7 @@ The Amalgamated team requests cybersecurity information on
 Augmented Reality Sporting's products
 and suppliers.
 
-Recognizing the importance of cybersecurity and cyber resilience,
+Recognizing the importance of cybersecurity and cyberresilience,
 Augmented Reality Sporting has invested in
 implementing a PACE system and has the requested
 information at their fingertips.

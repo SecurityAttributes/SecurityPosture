@@ -4,7 +4,7 @@
 
 This scenario is very similar to scenario 3.
 The one difference is that the CSAF/VEX
-says status = AFFECTED and recommends a patch.
+says "status = AFFECTED" and recommends a patch.
 Because the device is categorized
 (ie has posture attribute "corporate impact" equal to) level 2
 (ie loss/compromise may lead reduced level of care at the HDO)

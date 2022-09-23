@@ -16,14 +16,15 @@ The HDO has a security policy to categorize each of it's devices
 according to the device impact on patient care
 and/or financial operations::
 - level 1 - loss/compromise leads to likely loss of life
-- level 2 - loss/compromise may lead reduced level of care
+- level 2 - loss/compromise may lead to reduced level of care
 - level 3 - loss/compromise may lead to financial impact on business
 - level 4 - loss/compromise for 1 day would not greatly impact patient care or financial operations
-This 'impact' attribute is both a security-
-and a safety-posture attribute
-which the HDO uses in it's security policies to drive certain actions
+
+The above 'impact' attributes are both security-
+and safety-posture attributes,
+which the HDO uses in its security policies to drive certain actions
 in the playbooks.
-This attribute is stored in the HDO's Asset Management system.
+These attributes are stored in the HDO's Asset Management system.
 
 In this scenario,
 the HDO has a complete and accurate inventory of

@@ -9,9 +9,9 @@ integrated entertainment modules for the large automative OEMs.
 EntertainMod products
 have traditionally followed Demmings principles
 for hardware
-and the recent surge in SBOM popularity has led them
+and the recent surge in SBOM popularity led them
 to consider doing if for software as well.
-They install a PACE system, and change their contract language
+They install a PACE system and change their contract language
 to require all their suppliers
 to supply SBOMs directly into the PACE system thru an API.
 

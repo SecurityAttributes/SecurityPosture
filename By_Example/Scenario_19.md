@@ -25,13 +25,13 @@ into a better job at another company.
 The Amalgamated Virtual Sports CISO team
 begins its due diligence by analyzing the one SBOM.
 Analysis of the one SBOM reveals both major licensing issues
-and many unpatched vulnerabilities, several severe.
-Another troubling point is these have had known fixes
+and many unpatched vulnerabilities, several of them severe.
+Another troubling point is that these vulnerabilities have had known fixes
 for many years.
 The team recognizes Beat the Spread is a higher value target
 to hackers because of the higher dollar value
-due to gambling money changing hands.
-The team preforms a quantitative risk analysis
+inherent with gambling money changing hands.
+The team performs a quantitative risk analysis
 concluding significant probability
 of material financial risk.
 
@@ -49,5 +49,5 @@ major cyberattack leveraging
 Beat the Spread's
 unpatched vulnerabilities;
 and shortly thereafter declares bankruptcy.
-Many of their customers move to Amalgamated resulting in even larger
+Many of their customers move to Amalgamated, resulting in even larger
 profits and bonuses.
