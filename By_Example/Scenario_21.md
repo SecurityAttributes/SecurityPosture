@@ -14,7 +14,7 @@ remembers the gruesome particulars of the company-wide brief on WannaCry Ransome
 Thankfully, Amalgamated's rigorous posture attribution collection and evaluation protocol has
 already detected suspicious content in an email opened by one of its own employees. 
 
-As the attack evolves, "observed-data" STIX objects precede "attack-pattern" and "malware" objectrs 
+As the attack evolves, "observed-data" STIX objects precede "attack-pattern" and "malware" objects 
 that begin to centralize and coordinate information for a "campaign" STIX object whose end result is a diagnostic
 that generates possible patch solutions to mitigate the initial malware and prevent further spread. 
 
