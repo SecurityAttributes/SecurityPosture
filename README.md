@@ -19,7 +19,7 @@ in knowing where and how we stand at all times.
 
 ## Security Posture by Example
 Concepts are one thing, but understanding how they function in real life
-use cases is an essential component to their effectiveness.
+is an essential component to their effectiveness.
 
 At [By Example](./By_Example/README.md), you'll find realistic scenarios 
 that demonstrate how posture attributes can be used as part of business processes.
